@@ -5,8 +5,8 @@ authors = ["morganamilo <morganamilo@gmail.com>"]
 edition = "2018"
 
 description = "A libary for downloading and diffing AUR packages"
-homepage = "http://github.com/Morganamilo/aur-fetch.rs"
-repository = "http://github.com/Morganamilo/aur-fetch.rs"
+homepage = "https://github.com/Morganamilo/aur-fetch.rs"
+repository = "https://github.com/Morganamilo/aur-fetch.rs"
 documentation = "https://docs.rs/aur_fetch"
 license = "GPL-3.0"
 keywords = ["archlinux", "pkgbuild", "arch", "aur"]
